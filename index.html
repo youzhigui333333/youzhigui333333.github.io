@@ -102,22 +102,6 @@
 <div id="main">
   <section class="outer">
   
-  <ul class="ads">
-    
-        <li>
-            <a target="_blank" rel="noopener" href="https://curl.qcloud.com/kvO7hb43">
-                <img src="https://pic.imgdb.cn/item/62174b452ab3f51d912a5ccc.jpg" width="300" alt="云服务器限时秒杀">
-            </a>
-        </li>
-    
-        <li>
-            <a target="_blank" rel="noopener" href="https://www.vultr.com/?ref=8630075">
-                <img src="https://pic.imgdb.cn/item/62174b452ab3f51d912a5cd7.png" width="300" alt="vultr优惠vps">
-            </a>
-        </li>
-    
-</ul>
-  
   
   
 
@@ -167,6 +151,63 @@
     
     
     <article
+  id="post-读书笔记"
+  class="article article-type-post"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h2 itemprop="name">
+  <a class="article-title" href="/2023/04/21/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"
+    >读书笔记</a> 
+</h2>
+ 
+
+      
+    </header>
+     
+    <div class="article-meta">
+      <a href="/2023/04/21/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/" class="article-date">
+  <time datetime="2023-04-21T14:26:08.000Z" itemprop="datePublished">2023-04-21</time>
+</a>    
+    </div>
+      
+    <div class="article-entry" itemprop="articleBody">
+       
+  <p>认真的做个笔记~~~</p>
+<p>金风玉露一相逢，便胜却人间无数——鹊桥仙·纤云弄巧  秦观——在秋风白露在秋天相遇，胜过了人间无数的儿女情长。在这里表示的是若两个相爱的人若能相逢,虽时日短暂,也是难能可贵，就仅此一次相逢,已抵过了世间无数的美好幸福。</p>
+<p>欲买桂花同载酒，终不似，少年游。——唐多令·芦叶满汀洲<br>宋·刘过——想要买上桂花带上美酒一同泛舟,但终究不像少年时出游拥有那种意气了。即使我们在人生中追求了桂花和美酒，也无法回到青春年少的时光，少年时代的自由和无忧无虑是无法再现的。</p>
+<p>须知少日拏云志,曾许人间第一流。——清代吴庆坻《题三十计小象》——应记住在年少的时候曾经扬言要做世间最强大、最豪贵的人物，做出人间最一流的成绩。</p>
+<p>春风得意马蹄疾,一日看尽长安花。——登科后 唐·孟郊——迎着浩荡春风,从容得意地纵马奔驰,就好像一天就可以看完长安似锦的繁华。</p>
+<p>小舟从此逝，江海寄余生。——临江仙·夜饮东坡醒复醉 宋·苏轼——不如就驾一叶扁舟,从此远离喧嚣,在江湖深处安闲地度过余生吧。人在失意或是对眼前生活感到厌烦时，总会盼望脱离旧环境，到一个新地方去享受一下自由逍遥的人生</p>
+<p>世事一场大梦，人生几度秋凉。——宋朝苏轼《西江月·世事一场大梦》——世上万事恍如一场大梦,人生经历了几度新凉的秋天?</p>
+<p>不如意事常八九，可与语人无二三。——宋 方岳《别子才司令》——人生中经历的事情十件里有八九件都不如人意的，可以和别人说的事情更是少的连两三件都没有。</p>
+<p>这真的不是很容易能看出来</p>
+ 
+      <!-- reward -->
+      
+    </div>
+    
+
+    <!-- copyright -->
+    
+    <footer class="article-footer">
+       
+    </footer>
+  </div>
+
+   
+   
+  
+</article>
+
+
+    
+    <article
   id="post-文"
   class="article article-type-post"
   itemscope
@@ -213,6 +254,7 @@
    
   
 </article>
+
 
     
     <article
@@ -261,6 +303,7 @@
    
   
 </article>
+
 
     
     <article
@@ -311,6 +354,7 @@
   
 </article>
 
+
     
     <article
   id="post-“第一篇文章”"
@@ -358,6 +402,7 @@
    
   
 </article>
+
 
     
   </article>
@@ -718,6 +763,42 @@
 
     
     
+<script>
+  const password = "80729";
+  const lock_password = window.sessionStorage.getItem("lock_password");
+  console.log(password, lock_password);
+  if (lock_password !== password) {
+    Swal.fire({
+      title: "Please enter password",
+      input: "text",
+      inputAttributes: {
+        autocapitalize: "off",
+      },
+      showCancelButton: false,
+      showLoaderOnConfirm: true,
+      allowOutsideClick: false,
+      confirmButtonText: "Ok",
+    }).then((result) => {
+      console.log(result);
+      if (result.isConfirmed) {
+        console.log(password);
+        if (result.value === password) {
+          window.sessionStorage.setItem("lock_password", result.value);
+        } else {
+          Swal.fire({
+            icon: "error",
+            title: "Incorrect password, please try again",
+            confirmButtonText: "Ok",
+            allowOutsideClick: false,
+          }).then(() => {
+            window.location.reload();
+          });
+        }
+      }
+    });
+  }
+</script>
+
 
   </div>
 </body>
