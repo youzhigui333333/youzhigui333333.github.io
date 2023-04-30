@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-29T07:43:16.798Z</updated>
+  <updated>2023-04-30T07:28:43.903Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日志3</title>
+    <link href="http://example.com/2023/04/30/%E6%97%A5%E5%BF%973/"/>
+    <id>http://example.com/2023/04/30/%E6%97%A5%E5%BF%973/</id>
+    <published>2023-04-30T07:26:37.000Z</published>
+    <updated>2023-04-30T07:28:43.903Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;时间15点27分，评论还是没学会，我准备放弃了。相册好像加载有些慢（尬），但还没有解决方法。&lt;br&gt;准备一些深化的美化学习。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="操作学习" scheme="http://example.com/tags/%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>日志2</title>
