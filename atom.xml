@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-30T07:28:43.903Z</updated>
+  <updated>2023-05-03T05:57:02.306Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日志4</title>
+    <link href="http://example.com/2023/05/03/%E6%97%A5%E5%BF%974/"/>
+    <id>http://example.com/2023/05/03/%E6%97%A5%E5%BF%974/</id>
+    <published>2023-05-03T05:54:01.000Z</published>
+    <updated>2023-05-03T05:57:02.306Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;时间13点55分&lt;br&gt;刚才本来在做自我回复机器人，但是我的github卡住了，就先来写日志&lt;br&gt;这个五一没有做太多美化，只是日常维护。去看了铃芽之旅和虚构推理一（这个是20年的番了）&lt;br&gt;还算过的充实&lt;br&gt;二诊考的一般，继续努力吧！&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+    <category term="操作学习" scheme="http://example.com/tags/%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>日志3</title>
