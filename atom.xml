@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-03T05:57:02.306Z</updated>
+  <updated>2023-05-03T11:29:49.516Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于一些说明</title>
+    <link href="http://example.com/2023/05/03/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E/"/>
+    <id>http://example.com/2023/05/03/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E/</id>
+    <published>2023-05-03T09:16:40.000Z</published>
+    <updated>2023-05-03T11:29:49.516Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;写这个的目的主要是测试一下置顶这个功能，以及进行一些必要说明（因为我是想到哪补充到哪所以顺序可能会有些乱）&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;关于二次元看板娘的问题——&lt;br&gt;加载会有些慢，但总体效果还不错。第一个按钮是让他说话，第二个是切换人物，第三个是换装，第四个是拍照，</summary>
+        
+      
+    
+    
+    
+    <category term="其它" scheme="http://example.com/categories/%E5%85%B6%E5%AE%83/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>日志4</title>
@@ -223,7 +248,7 @@
     <link href="http://example.com/2023/04/16/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2023/04/16/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2023-04-16T01:42:30.000Z</published>
-    <updated>2023-05-03T08:54:51.414Z</updated>
+    <updated>2023-05-03T09:16:09.064Z</updated>
     
     
       
