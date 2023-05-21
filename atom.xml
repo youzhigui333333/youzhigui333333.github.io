@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-17T13:35:13.284Z</updated>
+  <updated>2023-05-21T13:13:53.214Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>学校</title>
+    <link href="http://example.com/2023/05/21/%E5%AD%A6%E6%A0%A1/"/>
+    <id>http://example.com/2023/05/21/%E5%AD%A6%E6%A0%A1/</id>
+    <published>2023-05-21T13:10:28.000Z</published>
+    <updated>2023-05-21T13:13:53.214Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天去小朋友未来的学校看了看&lt;br&gt;还是蛮适合她的。有心理课，也有很多的活动和花花草草，还有电影节（小朋友的梦想呀！！）&lt;br&gt;可能……也不知我最后会不会去那里&lt;br&gt;不管怎么样，小朋友开心就好&lt;br&gt;那里老师说了一句话我很受用&lt;br&gt;“真正的爱是放手”&lt;br&gt;——是</summary>
+        
+      
+    
+    
+    
+    <category term="其它" scheme="http://example.com/categories/%E5%85%B6%E5%AE%83/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>日志6</title>
