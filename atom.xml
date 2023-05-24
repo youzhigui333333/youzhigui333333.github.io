@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-21T13:13:53.214Z</updated>
+  <updated>2023-05-24T14:28:58.618Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>校二诊前</title>
+    <link href="http://example.com/2023/05/24/%E6%A0%A1%E4%BA%8C%E8%AF%8A%E5%89%8D/"/>
+    <id>http://example.com/2023/05/24/%E6%A0%A1%E4%BA%8C%E8%AF%8A%E5%89%8D/</id>
+    <published>2023-05-24T14:21:13.000Z</published>
+    <updated>2023-05-24T14:28:58.618Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;明天校二诊（前几天那个是区上的二诊）离中考还有不多不少20天。&lt;/p&gt;
+&lt;p&gt;最近和小朋友呢，有一些小矛盾&lt;br&gt;她今天试图用一颗糖和一包饼干收买我hhh……想太简单了……以为我是这么好收买的？&lt;br&gt;hh其实她只需要一个糖就够了&lt;br&gt;她说我最近不是很想搭理她？？？我表现</summary>
+        
+      
+    
+    
+    
+    <category term="写给我的小朋友" scheme="http://example.com/categories/%E5%86%99%E7%BB%99%E6%88%91%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>学校</title>
@@ -44,7 +68,7 @@
     <link href="http://example.com/2023/05/17/%E6%97%A5%E5%BF%976/"/>
     <id>http://example.com/2023/05/17/%E6%97%A5%E5%BF%976/</id>
     <published>2023-05-17T13:33:57.000Z</published>
-    <updated>2023-05-17T13:35:13.284Z</updated>
+    <updated>2023-05-24T14:21:36.634Z</updated>
     
     
       
@@ -58,7 +82,7 @@
     
     
     
-    <category term="其它" scheme="http://example.com/categories/%E5%85%B6%E5%AE%83/"/>
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
