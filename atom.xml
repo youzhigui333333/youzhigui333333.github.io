@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-10T11:40:25.225Z</updated>
+  <updated>2023-06-17T23:12:25.878Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于一些说明2</title>
+    <link href="http://example.com/2023/06/18/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E2/"/>
+    <id>http://example.com/2023/06/18/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E2/</id>
+    <published>2023-06-17T22:58:09.000Z</published>
+    <updated>2023-06-17T23:12:25.878Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;来描述一下关于notion（notion有一个特点是全英文……不过那个英文某人肯定能读懂）&lt;/p&gt;
+&lt;p&gt;我已经把相册那一页的链接替换成了我个人notion里的相册。直接点击左侧”相册”就是我的共享了的notion相册页（只能看到相册一页）。（实测加载速度超快）&lt;/p&gt;
+&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="其它" scheme="http://example.com/categories/%E5%85%B6%E5%AE%83/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>等</title>
