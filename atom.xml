@@ -1,20 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>郭知弈</title>
+  <title>未曾吃到葡萄</title>
   
   <subtitle>幼稚鬼loser</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-06-24T10:45:05.598Z</updated>
+  <updated>2023-06-27T05:54:33.685Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>郭知弈</name>
+    <name>葡萄玩家</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>速阅please</title>
+    <link href="http://example.com/2023/06/27/%E9%80%9F%E9%98%85please/"/>
+    <id>http://example.com/2023/06/27/%E9%80%9F%E9%98%85please/</id>
+    <published>2023-06-27T05:33:16.000Z</published>
+    <updated>2023-06-27T05:54:33.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div align=center&gt;#速阅！！&lt;/div&gt;
+&amp;emsp;&amp;emsp;考虑到如果写手写版给你的话，你就要后天才能看到了，我就直接打在这里。拜托，千万千万一定一定要看这里啊（你说过你每天都会看这的）！！（顺便给你展示一下我新学的 文字居中</summary>
+        
+      
+    
+    
+    
+    <category term="写给我的小朋友" scheme="http://example.com/categories/%E5%86%99%E7%BB%99%E6%88%91%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B/"/>
+    
+    
+    <category term="其它" scheme="http://example.com/tags/%E5%85%B6%E5%AE%83/"/>
+    
+  </entry>
   
   <entry>
     <title>日志7</title>
@@ -484,31 +510,6 @@
     
     
     <category term="无关紧要" scheme="http://example.com/tags/%E6%97%A0%E5%85%B3%E7%B4%A7%E8%A6%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日志</title>
-    <link href="http://example.com/2023/04/16/%E6%97%A5%E5%BF%97/"/>
-    <id>http://example.com/2023/04/16/%E6%97%A5%E5%BF%97/</id>
-    <published>2023-04-16T09:19:53.000Z</published>
-    <updated>2023-04-26T14:07:15.752Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;时间是2023 4 16 17点20 第一篇日志&lt;br&gt;已经完成了一半，可以在本地浏览了！！但还不会插图，也不会上传至联网&lt;br&gt;不知道能不能在4</summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="操作学习" scheme="http://example.com/tags/%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
