@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-22T01:04:30.090Z</updated>
+  <updated>2023-08-22T11:46:22.333Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>6</title>
+    <link href="http://example.com/2023/08/22/6/"/>
+    <id>http://example.com/2023/08/22/6/</id>
+    <published>2023-08-22T11:43:59.000Z</published>
+    <updated>2023-08-22T11:46:22.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我也不知道你今天晚上是想说什么。&lt;br&gt;我确实很晚才被我妈轻描淡写告知了李妈约了饭。&lt;br&gt;话说你们真的只安排了吃饭？下午不约一个的……我都无聊死了（就问问别声张！！！！）&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>郭家强</title>
@@ -476,31 +498,6 @@
     
     
     <category term="小朋友的文" scheme="http://example.com/tags/%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>注</title>
-    <link href="http://example.com/2023/04/17/%E6%B3%A8/"/>
-    <id>http://example.com/2023/04/17/%E6%B3%A8/</id>
-    <published>2023-04-17T12:50:30.000Z</published>
-    <updated>2023-04-26T14:07:00.090Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;4 17 20点50</summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="无关紧要" scheme="http://example.com/tags/%E6%97%A0%E5%85%B3%E7%B4%A7%E8%A6%81/"/>
     
   </entry>
   
