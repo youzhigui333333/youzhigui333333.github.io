@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-09T07:49:51.487Z</updated>
+  <updated>2023-09-16T05:03:30.412Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,23 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>回复</title>
-    <link href="http://example.com/2023/09/09/%E5%9B%9E%E5%A4%8D/"/>
-    <id>http://example.com/2023/09/09/%E5%9B%9E%E5%A4%8D/</id>
-    <published>2023-09-09T01:43:59.000Z</published>
-    <updated>2023-09-09T07:49:51.487Z</updated>
+    <title>成都七中心理社</title>
+    <link href="http://example.com/2023/09/16/%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E5%BF%83%E7%90%86%E7%A4%BE/"/>
+    <id>http://example.com/2023/09/16/%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E5%BF%83%E7%90%86%E7%A4%BE/</id>
+    <published>2023-09-16T04:52:20.000Z</published>
+    <updated>2023-09-16T05:03:30.412Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;那，我们，明天见&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;来主观有余客观不足地评价一下成都七中的心理社团。&lt;br&gt;首先我想说，不到两个小时的时间还是过的挺快。可能是第一次体验选课的方式，还是有挺多收获。&lt;br&gt;心理教室在游艺楼四楼，还是有一定规模的（网传装修经费两百万）。上课的老师是个实习老师，但还挺不错。全社共24个人，算是社团</summary>
         
       
     
     
+    
+    <category term="成都七中" scheme="http://example.com/categories/%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD/"/>
     
     
   </entry>
