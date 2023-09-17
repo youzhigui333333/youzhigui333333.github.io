@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-09-16T05:03:30.412Z</updated>
+  <updated>2023-09-17T11:47:29.844Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>速</title>
+    <link href="http://example.com/2023/09/17/%E9%80%9F/"/>
+    <id>http://example.com/2023/09/17/%E9%80%9F/</id>
+    <published>2023-09-17T11:35:17.000Z</published>
+    <updated>2023-09-17T11:47:29.844Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天（9月17星期天）微信找你，是满足你的愿望啦……弹了一首歌，翻唱的，词和曲我都很喜欢。因为手弹错了几处，见谅。但你好像不在，只好改天了&lt;br&gt;你要是执意去golden key，那，虽然我想说golden</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>成都七中心理社</title>
@@ -474,31 +495,6 @@
     
     <category term="写给我的小朋友" scheme="http://example.com/categories/%E5%86%99%E7%BB%99%E6%88%91%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>文</title>
-    <link href="http://example.com/2023/04/18/%E6%96%87/"/>
-    <id>http://example.com/2023/04/18/%E6%96%87/</id>
-    <published>2023-04-18T13:09:06.000Z</published>
-    <updated>2023-04-26T14:08:03.666Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;某个小朋友写的~~&lt;br&gt;                                          与君    寄君一笺为谢礼&lt;br&gt;    提笔，竟似有万千言语，难以言说。&lt;br&gt;    搁笔，却又踌躇，兀自叹息。&lt;br&gt;   </summary>
-        
-      
-    
-    
-    
-    <category term="写给我的小朋友" scheme="http://example.com/categories/%E5%86%99%E7%BB%99%E6%88%91%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B/"/>
-    
-    
-    <category term="小朋友的文" scheme="http://example.com/tags/%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E6%96%87/"/>
     
   </entry>
   
