@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-06T13:03:14.340Z</updated>
+  <updated>2023-10-22T00:47:54.721Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>嘿！看过来</title>
+    <link href="http://example.com/2023/10/22/%E5%98%BF%EF%BC%81%E7%9C%8B%E8%BF%87%E6%9D%A5/"/>
+    <id>http://example.com/2023/10/22/%E5%98%BF%EF%BC%81%E7%9C%8B%E8%BF%87%E6%9D%A5/</id>
+    <published>2023-10-22T00:35:47.000Z</published>
+    <updated>2023-10-22T00:47:54.721Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;好久没有更新过啦！&lt;/p&gt;
+&lt;p&gt;看你的朋友圈，你好像很累？吃颗糖吧++会好的&lt;br&gt;你说你把自己弄成那样干啥……为了你们那个啥编辑部？&lt;br&gt;那那那我要开始反动了，望见谅。&lt;/p&gt;
+&lt;p&gt;集体的意思是，像米粒一样稀稀拉拉聚在一起，而不是团子一样的一团&lt;br&gt;（你应该是知道</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>日志8</title>
@@ -471,29 +494,6 @@
     
     
     <category term="操作学习" scheme="http://example.com/tags/%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>二诊中途</title>
-    <link href="http://example.com/2023/04/26/%E4%BA%8C%E8%AF%8A%E4%B8%AD%E9%80%94/"/>
-    <id>http://example.com/2023/04/26/%E4%BA%8C%E8%AF%8A%E4%B8%AD%E9%80%94/</id>
-    <published>2023-04-26T14:08:28.000Z</published>
-    <updated>2023-05-20T08:43:23.533Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;时间</summary>
-        
-      
-    
-    
-    
-    <category term="写给我的小朋友" scheme="http://example.com/categories/%E5%86%99%E7%BB%99%E6%88%91%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B/"/>
-    
     
   </entry>
   
