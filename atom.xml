@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-22T00:47:54.721Z</updated>
+  <updated>2023-10-30T05:18:27.658Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>运动会</title>
+    <link href="http://example.com/2023/10/30/%E8%BF%90%E5%8A%A8%E4%BC%9A/"/>
+    <id>http://example.com/2023/10/30/%E8%BF%90%E5%8A%A8%E4%BC%9A/</id>
+    <published>2023-10-30T05:03:42.000Z</published>
+    <updated>2023-10-30T05:18:27.658Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;不得不说，这一次的运动会开的非常的joker】&lt;/p&gt;
+&lt;p&gt;首先通报一下涉案金额。苹果手机掉了两三个，airpods掉了七八个，各种其他的耳机充电器不计其数……学校这拨下来进账起码过万&lt;/p&gt;
+&lt;p&gt;见到了许久未见的鹏鹏，致远，云飞，家乐，朱部，还有那个见色忘友的家伙。&lt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>嘿！看过来</title>
@@ -457,34 +480,6 @@
         
     <summary type="html">&lt;p&gt;时间15点27分，评论还是没学会，我准备放弃了。相册好像加载有些慢（尬），但还没有解决方法。&lt;br&gt;准备一些深化的美化学习。&lt;/p&gt;
 </summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="操作学习" scheme="http://example.com/tags/%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日志2</title>
-    <link href="http://example.com/2023/04/29/%E6%97%A5%E5%BF%972/"/>
-    <id>http://example.com/2023/04/29/%E6%97%A5%E5%BF%972/</id>
-    <published>2023-04-29T07:05:35.000Z</published>
-    <updated>2023-04-29T07:43:16.798Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;时间15点06分，发现好久没写过日志了&lt;/p&gt;
-&lt;p&gt;这一周学会了分类，标签，友链，但是还没有会相册和评论（评论是真的难，相册我不知道图片路径在哪里）&lt;/p&gt;
-&lt;p&gt;五一节这两天应该会写长篇，就先到这里&lt;/p&gt;
-&lt;p&gt;ps：时间15点42分，短短半小时之后，相册我已经学会了</summary>
         
       
     
