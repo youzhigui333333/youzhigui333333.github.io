@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-30T05:18:27.658Z</updated>
+  <updated>2023-11-17T23:10:53.254Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日志9</title>
+    <link href="http://example.com/2023/11/18/%E6%97%A5%E5%BF%979/"/>
+    <id>http://example.com/2023/11/18/%E6%97%A5%E5%BF%979/</id>
+    <published>2023-11-17T22:59:58.000Z</published>
+    <updated>2023-11-17T23:10:53.254Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;好吧，好久没写过日志了。&lt;/p&gt;
+&lt;p&gt;我承认是我懒好吧，但是半期之后确实不想敲字。&lt;br&gt;半期考试的事情不愿多提，但是学校最近还是有几件事。</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>运动会</title>
@@ -453,32 +475,6 @@
         
         
     <summary type="html">&lt;p&gt;时间13点55分&lt;br&gt;刚才本来在做自我回复机器人，但是我的github卡住了，就先来写日志&lt;br&gt;这个五一没有做太多美化，只是日常维护。去看了铃芽之旅和虚构推理一（这个是20年的番了）&lt;br&gt;还算过的充实&lt;br&gt;二诊考的一般，继续努力吧！&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="操作学习" scheme="http://example.com/tags/%E6%93%8D%E4%BD%9C%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>日志3</title>
-    <link href="http://example.com/2023/04/30/%E6%97%A5%E5%BF%973/"/>
-    <id>http://example.com/2023/04/30/%E6%97%A5%E5%BF%973/</id>
-    <published>2023-04-30T07:26:37.000Z</published>
-    <updated>2023-04-30T07:28:43.903Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;时间15点27分，评论还是没学会，我准备放弃了。相册好像加载有些慢（尬），但还没有解决方法。&lt;br&gt;准备一些深化的美化学习。&lt;/p&gt;
 </summary>
         
       
