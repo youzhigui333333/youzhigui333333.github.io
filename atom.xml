@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-09T03:29:13.932Z</updated>
+  <updated>2023-12-24T11:43:38.444Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的一年</title>
+    <link href="http://example.com/2023/12/24/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4/"/>
+    <id>http://example.com/2023/12/24/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4/</id>
+    <published>2023-12-24T01:13:53.000Z</published>
+    <updated>2023-12-24T11:43:38.444Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;09：13&lt;br&gt;好吧好吧，2024年，可以许愿啦！！&lt;/p&gt;
+&lt;p&gt;上次看到一个剧说，许愿可以许三个。前两个可以说出来，但最后一个不可以。&lt;br&gt;不是因为不说出来比较容易实现，而是因为，最后一个愿望是那个最不容易实现的愿望。&lt;br&gt;不说出来，所以没有实现也不会失望。&lt;/p</summary>
+        
+      
+    
+    
+    
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>汹涌</title>
@@ -47,7 +71,7 @@
     <link href="http://example.com/2023/11/18/%E6%97%A5%E5%BF%979/"/>
     <id>http://example.com/2023/11/18/%E6%97%A5%E5%BF%979/</id>
     <published>2023-11-17T22:59:58.000Z</published>
-    <updated>2023-11-17T23:10:53.254Z</updated>
+    <updated>2023-12-24T01:15:50.627Z</updated>
     
     
       
@@ -60,6 +84,8 @@
       
     
     
+    
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
@@ -459,31 +485,6 @@
     
     
     <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>关于一些说明</title>
-    <link href="http://example.com/2023/05/03/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E/"/>
-    <id>http://example.com/2023/05/03/%E5%85%B3%E4%BA%8E%E4%B8%80%E4%BA%9B%E8%AF%B4%E6%98%8E/</id>
-    <published>2023-05-03T09:16:40.000Z</published>
-    <updated>2023-05-03T14:31:49.434Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;写这个的目的主要是测试一下置顶这个功能，以及进行一些必要说明（因为我是想到哪补充到哪所以顺序可能会有些乱）&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;关于二次元看板娘的问题——&lt;br&gt;加载会有些慢，但总体效果还不错。第一个按钮是让他说话，第二个是切换人物，第三个是换装，第四个是拍照，</summary>
-        
-      
-    
-    
-    
-    <category term="其它" scheme="http://example.com/categories/%E5%85%B6%E5%AE%83/"/>
     
     
   </entry>
