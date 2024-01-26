@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-01-14T01:38:11.608Z</updated>
+  <updated>2024-01-26T11:02:19.359Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>春节前夕</title>
+    <link href="http://example.com/2024/01/26/%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95/"/>
+    <id>http://example.com/2024/01/26/%E6%98%A5%E8%8A%82%E5%89%8D%E5%A4%95/</id>
+    <published>2024-01-26T10:49:14.000Z</published>
+    <updated>2024-01-26T11:02:19.359Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我知道称作春节前夕还太早，但是我必须要写一点什么了。&lt;/p&gt;
+&lt;p&gt;首先，这可能是春节前的最后一次更新了。下个周末就要回老家，所以以后的更新要放在节后了。&lt;br&gt;虽然变得越来越懒惰了，但是放心，我会继续写的。&lt;br&gt;要知道我以前的日记最长坚持的不过一个季度，这次能坚持到将近</summary>
+        
+      
+    
+    
+    
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>日志10</title>
@@ -460,30 +484,6 @@
     
     
     <category term="其它" scheme="http://example.com/categories/%E5%85%B6%E5%AE%83/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日志6</title>
-    <link href="http://example.com/2023/05/17/%E6%97%A5%E5%BF%976/"/>
-    <id>http://example.com/2023/05/17/%E6%97%A5%E5%BF%976/</id>
-    <published>2023-05-17T13:33:57.000Z</published>
-    <updated>2023-05-24T14:21:36.634Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;小朋友还是去的90呀&lt;br&gt;今天只是说一下这个事情&lt;br&gt;周末再详细写&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
