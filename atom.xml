@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-15T07:06:34.650Z</updated>
+  <updated>2024-02-22T01:22:47.374Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>美好事物</title>
+    <link href="http://example.com/2024/02/22/%E7%BE%8E%E5%A5%BD%E4%BA%8B%E7%89%A9/"/>
+    <id>http://example.com/2024/02/22/%E7%BE%8E%E5%A5%BD%E4%BA%8B%E7%89%A9/</id>
+    <published>2024-02-22T00:42:03.000Z</published>
+    <updated>2024-02-22T01:22:47.374Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;美好事物这个歌，还……不错。听着听着，好像很轻松。&lt;/p&gt;
+&lt;p&gt;我还是决定来写一点（原因在文末）。最近好像状态差的明显。尽管我仍震惊于妈妈辈的人是怎么&lt;br&gt;看出我不太好的（不会仅仅因为物理小测考得差吧），但也足以让我认真的审视一下自己。&lt;/p&gt;
+&lt;p&gt;好像是这个过年意识</summary>
+        
+      
+    
+    
+    
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>我回来了</title>
@@ -462,30 +487,6 @@
     
     
     <category term="无关紧要" scheme="http://example.com/tags/%E6%97%A0%E5%85%B3%E7%B4%A7%E8%A6%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>校二诊前</title>
-    <link href="http://example.com/2023/05/24/%E6%A0%A1%E4%BA%8C%E8%AF%8A%E5%89%8D/"/>
-    <id>http://example.com/2023/05/24/%E6%A0%A1%E4%BA%8C%E8%AF%8A%E5%89%8D/</id>
-    <published>2023-05-24T14:21:13.000Z</published>
-    <updated>2023-05-24T14:28:58.618Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;明天校二诊（前几天那个是区上的二诊）离中考还有不多不少20天。&lt;/p&gt;
-&lt;p&gt;最近和小朋友呢，有一些小矛盾&lt;br&gt;她今天试图用一颗糖和一包饼干收买我hhh……想太简单了……以为我是这么好收买的？&lt;br&gt;hh其实她只需要一个糖就够了&lt;br&gt;她说我最近不是很想搭理她？？？我表现</summary>
-        
-      
-    
-    
-    
-    <category term="写给我的小朋友" scheme="http://example.com/categories/%E5%86%99%E7%BB%99%E6%88%91%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B/"/>
-    
     
   </entry>
   
