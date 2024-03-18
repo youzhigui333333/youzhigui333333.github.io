@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-24T03:20:02.920Z</updated>
+  <updated>2024-03-18T14:46:38.048Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>冒泡</title>
+    <link href="http://example.com/2024/03/18/%E5%86%92%E6%B3%A1/"/>
+    <id>http://example.com/2024/03/18/%E5%86%92%E6%B3%A1/</id>
+    <published>2024-03-18T14:40:36.000Z</published>
+    <updated>2024-03-18T14:46:38.048Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;来冒个泡，证明我还活着。&lt;br&gt;最近确实是有点巨忙，电脑都半个月没开过了……&lt;br&gt;某人没有去xes上课呢？？……不会是又生病了吧&amp;#x2F;(ㄒoㄒ)&amp;#x2F;~~&lt;br&gt;不管有没有吧，最近好像生病的有些多，要注意保护身体鸭！&lt;/p&gt;
+&lt;p&gt;预告一下：有在写一些东西。&lt;</summary>
+        
+      
+    
+    
+    
+    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>关于电影</title>
@@ -456,33 +480,6 @@
     
     <category term="写给我的小朋友" scheme="http://example.com/categories/%E5%86%99%E7%BB%99%E6%88%91%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>两件事</title>
-    <link href="http://example.com/2023/05/29/%E4%B8%A4%E4%BB%B6%E4%BA%8B/"/>
-    <id>http://example.com/2023/05/29/%E4%B8%A4%E4%BB%B6%E4%BA%8B/</id>
-    <published>2023-05-29T14:12:17.000Z</published>
-    <updated>2023-05-29T14:15:57.101Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;今天有两件事&lt;/p&gt;
-&lt;p&gt;一是我剪头发了！！！长发飘飘的我呀！！！&amp;#x2F;(ㄒoㄒ)&amp;#x2F;~~&lt;/p&gt;
-&lt;p&gt;二是小朋友今天没有来&lt;br&gt;不知是病了，还是以后都不回来了&lt;br&gt;很失落&lt;br&gt;她明明答应我剩下的日子会一直在的&lt;br&gt;这人怎么这样呢…………早知道上周</summary>
-        
-      
-    
-    
-    
-    <category term="其它" scheme="http://example.com/categories/%E5%85%B6%E5%AE%83/"/>
-    
-    
-    <category term="无关紧要" scheme="http://example.com/tags/%E6%97%A0%E5%85%B3%E7%B4%A7%E8%A6%81/"/>
     
   </entry>
   
