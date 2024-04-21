@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-13T07:53:17.014Z</updated>
+  <updated>2024-04-21T01:48:38.689Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>化雪3</title>
+    <link href="http://example.com/2024/04/21/%E5%8C%96%E9%9B%AA3/"/>
+    <id>http://example.com/2024/04/21/%E5%8C%96%E9%9B%AA3/</id>
+    <published>2024-04-21T01:46:55.000Z</published>
+    <updated>2024-04-21T01:48:38.689Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre&gt;&lt;code&gt;                                                         五
+
+   那晚，朝中又发生了几件大事。
+  </summary>
+        
+      
+    
+    
+    
+    <category term="睡前故事" scheme="http://example.com/categories/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/"/>
+    
+    
+    <category term="化雪" scheme="http://example.com/tags/%E5%8C%96%E9%9B%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>化雪2</title>
@@ -465,31 +493,6 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>日志7</title>
-    <link href="http://example.com/2023/06/24/%E6%97%A5%E5%BF%977/"/>
-    <id>http://example.com/2023/06/24/%E6%97%A5%E5%BF%977/</id>
-    <published>2023-06-24T10:38:11.000Z</published>
-    <updated>2023-06-24T10:45:05.598Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;虽说我们是6月13日14日中考，已过去一周左右，但是一直没有写日志&lt;br&gt;一是不想写（没什么好写的），二是在补课&lt;br&gt;在七林对面的一个机构，一天三节课（数理化），还有作业和笔记，也没什么空&lt;br&gt;最近还在忙毕业典礼的彩排，可能以后会写多一点&lt;br&gt;中考的情况我不想谈，等出</summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-    <category term="其它" scheme="http://example.com/tags/%E5%85%B6%E5%AE%83/"/>
     
   </entry>
   
