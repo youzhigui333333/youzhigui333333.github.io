@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-05-26T12:42:26.861Z</updated>
+  <updated>2024-06-15T11:41:56.062Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>音乐</title>
+    <link href="http://example.com/2024/06/15/%E9%9F%B3%E4%B9%90/"/>
+    <id>http://example.com/2024/06/15/%E9%9F%B3%E4%B9%90/</id>
+    <published>2024-06-15T11:34:28.000Z</published>
+    <updated>2024-06-15T11:41:56.062Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;又是好久好久没有写过这个了呀&lt;br&gt;最近太忙了……（好像我总是用忙来推脱？）和状态问题吧&lt;br&gt;但是还是强迫自己写，避免真的懒下去&lt;/p&gt;
+&lt;p&gt;就只一点点话。&lt;br&gt;今晚你去看周深的演唱会了，我也来谈谈音乐。&lt;br&gt;数来，近一年写过的demo（你可以理解为未完成的音乐片段</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的回复</title>
@@ -474,29 +496,6 @@
       
     
     
-    
-    
-  </entry>
-  
-  <entry>
-    <title>成都七中心理社</title>
-    <link href="http://example.com/2023/09/16/%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E5%BF%83%E7%90%86%E7%A4%BE/"/>
-    <id>http://example.com/2023/09/16/%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E5%BF%83%E7%90%86%E7%A4%BE/</id>
-    <published>2023-09-16T04:52:20.000Z</published>
-    <updated>2023-09-16T05:03:30.412Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;来主观有余客观不足地评价一下成都七中的心理社团。&lt;br&gt;首先我想说，不到两个小时的时间还是过的挺快。可能是第一次体验选课的方式，还是有挺多收获。&lt;br&gt;心理教室在游艺楼四楼，还是有一定规模的（网传装修经费两百万）。上课的老师是个实习老师，但还挺不错。全社共24个人，算是社团</summary>
-        
-      
-    
-    
-    
-    <category term="成都七中" scheme="http://example.com/categories/%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD/"/>
     
     
   </entry>
