@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-06-15T11:41:56.062Z</updated>
+  <updated>2024-07-15T10:08:34.022Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>7.15</title>
+    <link href="http://example.com/2024/07/15/7-15/"/>
+    <id>http://example.com/2024/07/15/7-15/</id>
+    <published>2024-07-15T10:06:22.000Z</published>
+    <updated>2024-07-15T10:08:34.022Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;真的又是好久好久没有写过了，但是也确实没有什么东西可以写。&lt;br&gt;最近真的好忙啊，天天疯赶作业。想看的电影也没有去看，想追的剧更是一集都看不了一点。&lt;br&gt;我本来不想出去玩的，但是我妈就扯着我去新疆。这周六去，下周六回来待在成都待几个小时，我又要马上去重庆参加那个你特别瞧不</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>音乐</title>
@@ -475,27 +496,6 @@
     
     
     <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>速</title>
-    <link href="http://example.com/2023/09/17/%E9%80%9F/"/>
-    <id>http://example.com/2023/09/17/%E9%80%9F/</id>
-    <published>2023-09-17T11:35:17.000Z</published>
-    <updated>2023-09-17T11:47:29.844Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;今天（9月17星期天）微信找你，是满足你的愿望啦……弹了一首歌，翻唱的，词和曲我都很喜欢。因为手弹错了几处，见谅。但你好像不在，只好改天了&lt;br&gt;你要是执意去golden key，那，虽然我想说golden</summary>
-        
-      
-    
-    
     
     
   </entry>
