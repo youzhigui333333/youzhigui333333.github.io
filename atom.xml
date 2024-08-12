@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-07T22:08:39.479Z</updated>
+  <updated>2024-08-12T11:31:55.086Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的话</title>
+    <link href="http://example.com/2024/08/10/%E6%88%91%E7%9A%84%E8%AF%9D/"/>
+    <id>http://example.com/2024/08/10/%E6%88%91%E7%9A%84%E8%AF%9D/</id>
+    <published>2024-08-10T12:24:44.000Z</published>
+    <updated>2024-08-12T11:31:55.086Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;那就来很慢很慢的，深思熟虑的写给你的回复。&lt;/p&gt;
+&lt;p&gt;首先指责一下你小看我了。黄子的歌我还是经常听的，主要我感觉他是有认真去做音乐的心的。&lt;br&gt;青火的唱腔一般，只是词我特别喜欢。“看每个人 都在找</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>8-8</title>
@@ -472,29 +494,6 @@
     
     
     <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>运动会</title>
-    <link href="http://example.com/2023/10/30/%E8%BF%90%E5%8A%A8%E4%BC%9A/"/>
-    <id>http://example.com/2023/10/30/%E8%BF%90%E5%8A%A8%E4%BC%9A/</id>
-    <published>2023-10-30T05:03:42.000Z</published>
-    <updated>2023-10-30T05:18:27.658Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;不得不说，这一次的运动会开的非常的joker】&lt;/p&gt;
-&lt;p&gt;首先通报一下涉案金额。苹果手机掉了两三个，airpods掉了七八个，各种其他的耳机充电器不计其数……学校这拨下来进账起码过万&lt;/p&gt;
-&lt;p&gt;见到了许久未见的鹏鹏，致远，云飞，家乐，朱部，还有那个见色忘友的家伙。&lt;</summary>
-        
-      
-    
-    
     
     
   </entry>
