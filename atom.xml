@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-12T11:31:55.086Z</updated>
+  <updated>2024-09-07T08:44:36.535Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>夜车</title>
+    <link href="http://example.com/2024/09/07/%E5%A4%9C%E8%BD%A6/"/>
+    <id>http://example.com/2024/09/07/%E5%A4%9C%E8%BD%A6/</id>
+    <published>2024-09-07T08:31:07.000Z</published>
+    <updated>2024-09-07T08:44:36.535Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;想了一想，不能不写……不然我会懒惰&lt;br&gt;那就来分享一些我喜欢的歌吧（不一定好听或者什么制作好，单单是喜欢）&lt;br&gt;如你所见，今天的歌是夜车，来自曾轶可。&lt;/p&gt;
+&lt;p&gt;你会发现我其实蛮喜欢这个歌手的。她是超级女声出来的，其他的歌包括狮子座，baby</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>我的话</title>
@@ -470,30 +492,6 @@
     
     
     <category term="睡前故事" scheme="http://example.com/categories/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>日志9</title>
-    <link href="http://example.com/2023/11/18/%E6%97%A5%E5%BF%979/"/>
-    <id>http://example.com/2023/11/18/%E6%97%A5%E5%BF%979/</id>
-    <published>2023-11-17T22:59:58.000Z</published>
-    <updated>2023-12-24T01:15:50.627Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;好吧，好久没写过日志了。&lt;/p&gt;
-&lt;p&gt;我承认是我懒好吧，但是半期之后确实不想敲字。&lt;br&gt;半期考试的事情不愿多提，但是学校最近还是有几件事。</summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
