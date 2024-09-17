@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-07T08:44:36.535Z</updated>
+  <updated>2024-09-17T02:33:10.469Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Love Song</title>
+    <link href="http://example.com/2024/09/17/Love%20Song/"/>
+    <id>http://example.com/2024/09/17/Love%20Song/</id>
+    <published>2024-09-17T02:28:06.000Z</published>
+    <updated>2024-09-17T02:33:10.469Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天的歌，来自方大同，是我目前最最最最最喜欢的歌之一。&lt;br&gt;这首Love</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>夜车</title>
@@ -464,34 +485,6 @@
     
     
     <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>汹涌</title>
-    <link href="http://example.com/2023/12/09/%E6%B1%B9%E6%B6%8C/"/>
-    <id>http://example.com/2023/12/09/%E6%B1%B9%E6%B6%8C/</id>
-    <published>2023-12-09T01:07:28.000Z</published>
-    <updated>2024-04-04T01:49:23.868Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;最近晚上老失眠啊，就胡乱编了一个故事，还望大师指教。&lt;br&gt;（别说我这么久啥都没写）&lt;/p&gt;
-&lt;p&gt;汹涌&lt;/p&gt;
-&lt;p&gt;2067.7.29   9.00 p.m.   波特兰&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;   这里的土地坚硬，粗糙而长满杂草。
-
-  </summary>
-        
-      
-    
-    
-    
-    <category term="睡前故事" scheme="http://example.com/categories/%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/"/>
     
     
   </entry>
