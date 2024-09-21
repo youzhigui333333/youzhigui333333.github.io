@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-17T02:33:10.469Z</updated>
+  <updated>2024-09-21T07:58:00.513Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>月食</title>
+    <link href="http://example.com/2024/09/21/%E6%9C%88%E9%A3%9F/"/>
+    <id>http://example.com/2024/09/21/%E6%9C%88%E9%A3%9F/</id>
+    <published>2024-09-21T07:34:54.000Z</published>
+    <updated>2024-09-21T07:58:00.513Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;今天的歌，叫做月食，来自dean丁世光。&lt;br&gt;乍一听可能以为这是一首rnb歌曲，但其实他的鼓组比rnb强烈，可以称得上是摇滚了，但总体还在蓝调范围内。&lt;br&gt;dean的转音还是很有个人风格，而且这首的词写的很有意思，切入点挺新颖的。&lt;br&gt;他的歌真是一首比一首好听。而且听</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Love Song</title>
@@ -455,30 +476,6 @@
     <summary type="html">&lt;p&gt;好，那么我觉得我确实有点懒。再不写一点，我真的要注销了……&lt;/p&gt;
 &lt;p&gt;这两天心情确实不好……这个项目都做成月更了。。&lt;/p&gt;
 &lt;p&gt;先来说一下我这周差点去世的故事。这周二我出去买奶茶，然后在我们学校门前那个马路上&lt;br&gt;就在我左前方五厘米（一点不夸张），一个理想的电动车</summary>
-        
-      
-    
-    
-    
-    <category term="日志" scheme="http://example.com/categories/%E6%97%A5%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>新的一年</title>
-    <link href="http://example.com/2023/12/24/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4/"/>
-    <id>http://example.com/2023/12/24/%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4/</id>
-    <published>2023-12-24T01:13:53.000Z</published>
-    <updated>2023-12-24T11:43:38.444Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;09：13&lt;br&gt;好吧好吧，2024年，可以许愿啦！！&lt;/p&gt;
-&lt;p&gt;上次看到一个剧说，许愿可以许三个。前两个可以说出来，但最后一个不可以。&lt;br&gt;不是因为不说出来比较容易实现，而是因为，最后一个愿望是那个最不容易实现的愿望。&lt;br&gt;不说出来，所以没有实现也不会失望。&lt;/p</summary>
         
       
     
